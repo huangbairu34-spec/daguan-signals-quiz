@@ -1,0 +1,105 @@
+=== Page 4 ===
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.4
+设n<-2和n>4时x[nl=0，对以下每个信号确定其值保证为零的 n 值。
+(a) x[n-3]
+(b) x[n+4]
+tongxinkaoyan.
+萝禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆1.4
+设n<-2和>4时x[n]=0，对以下每个信号确定其值保证为零的n值。
+(c）x[-n]
+(d) x[-n+2]
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+=== Page 5 ===
+官 网 : www.tongxinkaoyan.com
+奥本海姆 1.4
+设n<-2和n>4时x[nl=0，对以下每个信号确定其值保证为零的n值。
+(e) x[-n-2]
+tongxinkaoyan.
+梦禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.5
+设t<3时x(t)=0，确定以下每个信号的值保证为零的t值。
+(a) x(l-t)
+(b) x(1-t)+x(2-t)
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+=== Page 6 ===
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.5
+设t<3时x(t)=0，确定以下每个信号的值保证为零的t值。
+(c) x(1-t)x(2-t)
+(d) x(3t)
+REAM
+tongxinkaoyan.
+萝禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆1.5
+设t<3时x(t)=0，确定以下每个信号的值保证为零的t值。
+(e) x(t/3)
+多禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+=== Page 7 ===
+官 网: www.tongxinkaoyan.com
+奥本海姆1.6判断下列信号的周期性。
+(a)x1(t) = 2ei(t+r/4)u(t)
+(b)x2[n] = u[n] + u[ - n]
+tongxinkaoya
+萝禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官网: www.tongxinkaoyan.com
+奥本海姆1.6判断下列信号的周期性。
+(c)x3[n] = Z=--∞{8[n - 4k] - S[n - 1 - 4k]}
+萝禹考研
+tongxinkaoya.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+=== Page 8 ===
+官 网: www.tongxinkaoyan.com
+奥本海姆1.7
+对以下每个信号求信号的偶部保证为零的所有自变量值。
+(a) x[n]=[n]-u[n-4]
+(b) x2(t)=sin(=t)
+tongxinkaoya
+梦禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.7
+对以下每个信号求信号的偶部保证为零的所有自变量值。
+(c) x[]=()"u[n-3]
+(d) x(t)=e-'u(t+2)
+萝禹考研
+tongxinkaoy
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥

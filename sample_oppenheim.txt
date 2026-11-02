@@ -1,0 +1,162 @@
+--- Page 1 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆
+《信号与系统》
+信号与系统
+（第二版）
+课后习题刷题本
+刷题本介绍：这本刷题本涵盖了奥本海姆版本教材每一章课后习题，每一页都是我
+精心设计，一面一题，给同学们超大的做题空间，帮助同学们实现高效题，精准
+总结在做题过程中容易出错的知识点，提高复习的效率！其中重点题目我已讲解,
+(已放二维码)，扫码即可直达观看！
+关注通信考研小马哥，获取更多免费资源～
+tong
+扫码试听课程
+关注公众号
+通信考研官网
+25梦马班试听
+b站二维码
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.1
+用笛卡儿坐标形式(x+jy)表示下列复数。
+-j元
+j2
+e-jr/2
+, ei5w2, /2ein4, /2ej9w4, /2e -i9/4, /2e -in4
+萝禹考研
+HOR
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+--- Page 2 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.2
+用极坐标形式(rei°,-元<≤π)表示下列复数。
+5,-2,-3j,
+,1+ j,(1-j)²,j(1-j),(1+ j)/(1- j),(V2+ j/2)/(1+ jV3)
+萝禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆1.3对下列每一个信号求P。和E。
+(a)xi(t) = e-2tu(t)
+(b)x2(t) = ej(2t+π/4)
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+手机扫码观看/分享
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+--- Page 3 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆1.3对下列每一个信号求P和E°
+(c)x3(t) = cos(t)
+(d)xi[n] = (
+() u[n]
+tongxinkaoyan.
+梦禹考研
+tongxinkaoyan.com
+手机扫码观看/分享
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官网: www.tongxinkaoyan.com
+奥本海姆1.3对下列每一个信号求P和Ec
+(e)x2[n] = ej(π/2n+π/8)
+(f)x3[n] = cos
+萝禹考研
+tongxinkaoyun.
+tongxinkaoyan.com
+手机扫码观看/分享
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+--- Page 4 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.4
+设n<-2和n>4时x[nl=0，对以下每个信号确定其值保证为零的 n 值。
+(a) x[n-3]
+(b) x[n+4]
+tongxinkaoyan.
+萝禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆1.4
+设n<-2和>4时x[n]=0，对以下每个信号确定其值保证为零的n值。
+(c）x[-n]
+(d) x[-n+2]
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+--- Page 5 ---
+官 网 : www.tongxinkaoyan.com
+奥本海姆 1.4
+设n<-2和n>4时x[nl=0，对以下每个信号确定其值保证为零的n值。
+(e) x[-n-2]
+tongxinkaoyan.
+梦禹考研
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.5
+设t<3时x(t)=0，确定以下每个信号的值保证为零的t值。
+(a) x(l-t)
+(b) x(1-t)+x(2-t)
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+
+--- Page 11 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.10
+求信号x(t)= 2cos(10t ＋1)一 sin(4t－ 1)的基波周期。
+tongxinkaoyan.
+萝禹考研
+tongxinkaoyan.com
+手机扫码现看/分享
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官网: www.tongxinkaoyan.com
+奥本海姆 1.11
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.com
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+11
+
+--- Page 21 ---
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.23
+确定并画出图P1.23所示信号的奇部和偶部，并进行标注。
+x(t)
+(a)
+tongxinkaoyan.
+萝禹考研
+tongxinkaoyan.Ct
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+奥本海姆 1.23
+确定并画出图P1.23所示信号的奇部和偶部，并进行标注。
+x(0)
+-2
+(b)
+萝禹考研
+tongxinkaoyan.
+tongxinkaoyan.
+B站up：通信考研小马哥
+公众号：通信考研小马哥
+21

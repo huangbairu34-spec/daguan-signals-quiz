@@ -1,0 +1,136 @@
+=== Page 4 ===
+官 网 : www.tongxinkaoyan.com
+郑君里 1.4如图,由f(t)求f(- 3t一2),但改变运算顺序,先求f(3t)或先求f(－t),
+讨论所得结果。
++ f(t)
+-2
+-1
+tongxinkaoya.
+梦禹考研
+tongxinkaoyan.
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官 网 : www.tongxinkaoyan.com
+郑君里 1.5
+已知f(t),为求f(to 一at)应按下列哪种运算求得正确结果(式中to、a
+都为正值)?
+(1)f(-at)左移to
+(3)f(at)左移to
+gxinka
+(2)f(at)右移to
+梦禹考研
+(4)f(-at)右移to
+HO
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+=== Page 5 ===
+官 网: www.tongxinkaoyan.com
+郑君里1.6绘出下列各信号的波形。
+(1)[1 + sin (nt)] sin (80t)
+(2)[1 + sin (2t)]sin (82t)
+tongxinkaoy
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.7
+绘出下列各信号的波形。
+(t)
+(t)
+(1)[u(t) - u(t - T)]sin
+(2)[u(t) - 2u(t - T) + u(t - 2T)]sin
+REAM
+萝禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+=== Page 6 ===
+官 网: www.tongxinkaoyan.com
+郑君里 1.8
+试将下列信号改用阶跃信号表示。
+(>>0)
+f(t)
+Le-αt -e-α(t-to), ( to<t<)
+((1 - e-at),
+(0<t<to)
+f(t)dt =
+[1 -e-α(t-to)], ( to<t <0)
+(1 -e-αt)
+tongx
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.9
+粗略绘出下列各函数式的波形图。
+(1)(2 - e-t)u(t)
+(3)(5e-t - 5e-3t)u(t)
+oxinkaoyan.
+(2)(3e-t +6e-2t)u(t)
+(4)e-tcos (10πt)[u(t - 1) - u(t - 2)]
+REAM
+梦禹考研
+HOR
+tongxinka
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+=== Page 7 ===
+官 网: www.tongxinkaoyan.com
+郑君里 1.10
+)写出下图(a)、(b)、()所示各波形的函数式。
++ f(t)
++f(t)
++ f(t)
+半周正弦波
+-2
+图(b)
+图(c)
+图(a)
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.11
+绘出下列各时间函数的波形图。
+(1)te-tu(t)
+(3)[1 + cos (πt)l[u(t) - u(t - 2)]
+gxinkaoyan.
+n.com
+(2)e-(t-1)[u(t - 1) - u(t - 2)]
+(4)u(t) - 2u(t - 1) + u(t - 2)
+梦禹考研
+AM
+HOR
+tongxinkac
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+=== Page 8 ===
+官 网: www.tongxinkaoyan.com
+郑君里1.11绘出下列各时间函数的波形图。
+(6)%[e-t(sin t)u(t)]
+a(t-to)
+tongxinkaoyan.
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官 网: www.tongxinkaoyan.com
+郑君里1.12绘出下列各时间函数的波形图,注意它们的区别。
+(1)t[u(t) - u(t - 1)]
+(3)t[u(t) -u(t - 1)l + u(t - 1)
+-inkaoyal
+(2)t · u(t - 1)
+(4)(t - 1)u(t - 1)
+梦禹考研
+tons
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥

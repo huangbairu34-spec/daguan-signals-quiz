@@ -1,0 +1,194 @@
+--- Page 1 ---
+官 网 : www.tongxinkaoyan.com
+郑君里《信号与系统》
+号与系统
+信号与系统
+课后习题刷题本
+刷题本介绍：这本刷题本涵盖了郑君里版本教材每一章课后习题，每一页都是我精
+心设计，一面一题，给同学们超大的做题空间，帮助同学们实现高效刷题，精准总
+结在做题过程中容易出错的知识点，提高复习的效率！其中100道重点题目我已讲解，
+(已放二维码)，扫码即可直达观看!
+关注通信考研小马哥，获取更多免费资源～
+扫码试听课程
+关注公众号
+通信考研官网
+25梦马班试听
+b站二维码
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.1
+分别判断下图所示各波形是连续时间信号还是离散时间信号,若是离
+散时间信号是否为数字信号？
++ f(t)
++ f(t)
+（只取1,2,3，4值）
+梦禹考研
+HOR
+tongxinkaovan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+--- Page 2 ---
+官 网 : www.tongxinkaoyan.com
+郑君里 1.1
+分别判断下图所示各波形是连续时间信号还是离散时间信号,若是离
+散时间信号是否为数字信号？
+f(t) +
+（只取12,3值）
+f(t) ↑
+com
+tono
+REAM
+梦禹考研
+tongxinkaoya
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官 网 : www.tongxinkaoyan.com
+郑君里 1.1
+分别判断下图所示各波形是连续时间信号还是离散时间信号,若是离
+散时间信号是否为数字信号？
+x(n) +
+（只取0,1值）
+x(n)+
+(只取1,－1值)
+om
+23
+REAM
+tons
+梦禹考研
+tongxinkaoya.
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+--- Page 3 ---
+官 网: www.tongxinkaoyan.com
+郑君里 1.2
+分别判断下列各函数式属于何种信号。是连续时间信号还是离散时间
+信号,若是离散时间信号是否为数字信号?以下各式中n为正整数。
+(1)e-atsin (t)
+(4)()
+gxinkad
+(2)sin(nwo)(wo为任意值)
+(5)cos (n)
+梦禹考研
+EAM
+HOR
+(3)e-nT
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.3
+分别求下列各周期信号的周期T。
+(1)cos(10t) - cos(30t)
+(3)[5sin(8t)]2
+ gxinkaoya
+an.com
+(2)ej10t
+(4)Zm=o(- 1)"[u(t - nT) - u(t - nT - T)](n为正整数)
+HOF
+tongxinka
+手机扫码观看/分享
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+--- Page 4 ---
+官 网 : www.tongxinkaoyan.com
+郑君里 1.4如图,由f(t)求f(- 3t一2),但改变运算顺序,先求f(3t)或先求f(－t),
+讨论所得结果。
++ f(t)
+-2
+-1
+tongxinkaoya.
+梦禹考研
+tongxinkaoyan.
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官 网 : www.tongxinkaoyan.com
+郑君里 1.5
+已知f(t),为求f(to 一at)应按下列哪种运算求得正确结果(式中to、a
+都为正值)?
+(1)f(-at)左移to
+(3)f(at)左移to
+gxinka
+(2)f(at)右移to
+梦禹考研
+(4)f(-at)右移to
+HO
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+--- Page 5 ---
+官 网: www.tongxinkaoyan.com
+郑君里1.6绘出下列各信号的波形。
+(1)[1 + sin (nt)] sin (80t)
+(2)[1 + sin (2t)]sin (82t)
+tongxinkaoy
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 1.7
+绘出下列各信号的波形。
+(t)
+(t)
+(1)[u(t) - u(t - T)]sin
+(2)[u(t) - 2u(t - T) + u(t - 2T)]sin
+REAM
+萝禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+
+--- Page 11 ---
+官 网 : www.tongxinkaoyan.com
+郑君里 1.15
+电容Ci与C2串联,以阶跃电压源v(t)= Eu(t)串联接入,试分别写出回
+路中的电流i(t)、每个电容两端电压Vci(t)、Vc2(t)的表示式。
+tongxinkaoya
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官 网 : www.tongxinkaoyan.com
+郑君里 1.16
+5电感Li与L2并联,以阶跃电流源i(t)= Iu(t)并联接入,试分别写出电感
+两端电压v(t)、每个电感支路电流ii(t)和il2(t)的表示式。
+REAM
+萝禹考研
+tongxinkaoya
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+11
+
+--- Page 21 ---
+官 网: www.tongxinkaoyan.com
+郑君里2.6给定系统微分方程
+d?
+dt2r(t) + 3.
+r(t) + 2r(t) =
+dt
+若激励信号和起始状态为e(t)= u(t),r(0_)=1,r(0_)=2,试求它的完全响应,
+并指出其零输入响应、零状态响应、自由响应、强迫响应各分量。提示：将e(t)
+代入方程后可见右端最高阶次奇异函数为S(t)，故左端最高阶次也为s(t)，因而，
+r(t)项无跳变，而r(t)项跳变值应为1，由此导出r(0+)和r(0+)。
+梦禹考研
+tongxinkaoyan.com
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+官网: www.tongxinkaoyan.com
+郑君里 2.7电路如题图2-7所示，t=0以前开关位于“1"，已进入稳态，t=0
+时刻，Si与S2同时自“1"转至“2"，求输出电压Vo(t)的完全响应，并指出其零输入、
+Si2 2 S
+零状态、自由、强迫各响应分量(E和I,各为常量)。
+Vo(t)
+题图2-7
+萝禹考研
+tongxinkaoya
+公众号：通信考研小马哥
+B站up：通信考研小马哥
+21

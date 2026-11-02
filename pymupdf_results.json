@@ -1,0 +1,289 @@
+[
+  {
+    "file": "001 【刷题本】何子述课后刷题本（全）.pdf",
+    "pages": 97,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "001 【刷题本】吴大正课后刷题本(全).pdf",
+    "pages": 275,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "001 【刷题本】奥本海姆课后刷题本（全）.pdf",
+    "pages": 191,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "001 【刷题本】杨晓非课后刷题本（全）.pdf",
+    "pages": 88,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "001 【刷题本】管致中课后刷题本（全）.pdf",
+    "pages": 53,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "001 【刷题本】郑君里课后刷题本(全).pdf",
+    "pages": 252,
+    "text_len_5_pages": 10,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4 | 5"
+  },
+  {
+    "file": "055 【第15节】课后作业.pdf",
+    "pages": 4,
+    "text_len_5_pages": 8,
+    "has_text": false,
+    "sample": "1 | 2 | 3 | 4"
+  },
+  {
+    "file": "2005-2008,2016-2020年广工837真题.pdf",
+    "pages": 28,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2009-2022广东工业大学809真题及解析.pdf",
+    "pages": 160,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2009年广东837真题.pdf",
+    "pages": 3,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2014-2021广工837真题，14-16答案.pdf",
+    "pages": 37,
+    "text_len_5_pages": 856,
+    "has_text": true,
+    "sample": "广东工业大学\n《837 信号与系统》历年真题与答案\n第 1／46页 | 目\n录\n第1 部分考试大纲\n第2 部分广东工业大学2014-2022 年《837 信号与系统》考研真题\n第3 部分广东工业大学2014-2016 年《837 信号与系统》真题答案\n第 2／46页 | 第1 部分\n考试大纲\n广东工业大学《837 信号与系统》考试大纲\n（2022 年官方版）\n1.信号与系统\n掌握信号的分类及其基本"
+  },
+  {
+    "file": "2014年广工837真题.pdf",
+    "pages": 2,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2015年广工837真题.pdf",
+    "pages": 3,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2017广东工业大学837参考答案.pdf",
+    "pages": 2,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2018广东工业大学837参考答案.pdf",
+    "pages": 17,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2019广东工业大学837答案.pdf",
+    "pages": 11,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2020广东工业大学837参考答案.pdf",
+    "pages": 2,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2021年广工837真题.pdf",
+    "pages": 2,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2021年广工837答案.pdf",
+    "pages": 9,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2021广东工业大学837参考答案.pdf",
+    "pages": 9,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2022年广工837真题.pdf",
+    "pages": 3,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2022年广工837答案.pdf",
+    "pages": 14,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2022广东工业大学837真题和参考答案.pdf",
+    "pages": 14,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2023年广工837真题.pdf",
+    "pages": 4,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2023年广工837答案.pdf",
+    "pages": 11,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2023广东工业大学809真题及解析.pdf",
+    "pages": 9,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2023广东工业大学837真题及解析.pdf",
+    "pages": 14,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2024年广工837真题.pdf",
+    "pages": 4,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2024年广工837答案.pdf",
+    "pages": 15,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2024广东工业大学809真题及解析.pdf",
+    "pages": 7,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2024广东工业大学837真题及解析.pdf",
+    "pages": 19,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "2025真题和答案.pdf",
+    "pages": 12,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "22广东工业大学809真题及解析.pdf",
+    "pages": 18,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "25版绝杀32专题.pdf",
+    "pages": 118,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "36 【第19次作业】暑期督学作业0828.pdf",
+    "pages": 8,
+    "text_len_5_pages": 1089,
+    "has_text": true,
+    "sample": "梦马考研\n公众号：通信考研小马哥\n官网：www.tongxinkaoyan.com\n绝杀32 专题系列\n27 梦马班绝杀32 专题系列\n暑期督学\n第十九次作业（0828）\n（作业提交截止时间：8 月2 | 梦马考研\n公众号：通信考研小马哥\n官网：www.tongxinkaoyan.com\n绝杀32 专题系列\n此次作业刷题规则：\n分题型训练，\n此次作业不区分教材版本\n所有题目需要全做！ | 梦马考研"
+  },
+  {
+    "file": "837上岸经典必刷题(含答案).pdf",
+    "pages": 40,
+    "text_len_5_pages": 7004,
+    "has_text": true,
+    "sample": "1 求\ne\n( ) d\nt\n\n\n\n\n\n与\ne\n( ) d\n\n\n\n\n\n\n\n。 \n解：\ne\n( ) d\n( )\n( )\nt\nt\nt\n\n\n\n\n\n\n | 7 某LTI 连续系统具有一定的起始状态，当输入为\n1( )\nf t 时，全响应\n1( )\n2e\ncos π ,\n0\nt\ny t\nt t\n\n\n\n\n①，若起\n始状态不变，输入\n2\n1\n( "
+  },
+  {
+    "file": "【做题本】A4版26考研小马哥信号与系统960题(1).pdf",
+    "pages": 484,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "奥本海姆课后题详细解答(含第八章).pdf",
+    "pages": 464,
+    "text_len_5_pages": 296,
+    "has_text": true,
+    "sample": "Signals & Systems\nSecond Edition\nSolutions Manual\n信号与系统\n（第二版）\nRamamurthy Mani | Contents\nChapter 1\n3\nChapter 2\n32\nChapter 3\n88\nChapter 4\n131\nChapter 5\n170\nChapter 6\n215\nChapter 7\n2 | 3\n《信号与系统（第二版）》习题解"
+  },
+  {
+    "file": "学校档案室找到--广东工业大学809信号与系统(自动化学院)2007--2021年考研初试真题.pdf",
+    "pages": 51,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "小马哥960答案(1).pdf",
+    "pages": 479,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  },
+  {
+    "file": "广东工业大学24年809信号与系统真题及解析.pdf",
+    "pages": 12,
+    "text_len_5_pages": 0,
+    "has_text": false,
+    "sample": ""
+  }
+]

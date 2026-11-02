@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased bg-slate-950 text-slate-100 selection:bg-blue-600 selection:text-white;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  html:not(.dark) body {
+    @apply bg-slate-50 text-slate-900;
+  }
+}
+
+/* Custom scrollbars - subtle, non-intrusive */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.45);
+}
+
+/* KaTeX formula typography & high-contrast styling */
+.katex {
+  font-size: 1.05em;
+  text-rendering: optimizeLegibility;
+}
+
+/* Strict Light Mode contrast for KaTeX formulas and text */
+html:not(.dark) .katex,
+html:not(.dark) .katex-display,
+html:not(.dark) .katex-html,
+html:not(.dark) .katex .base,
+html:not(.dark) .katex .mord,
+html:not(.dark) .katex .mbin,
+html:not(.dark) .katex .mrel,
+html:not(.dark) .katex .mopen,
+html:not(.dark) .katex .mclose,
+html:not(.dark) .katex .mpunct,
+html:not(.dark) .katex .minner,
+html:not(.dark) .katex .mop {
+  color: #0f172a !important;
+}
+
+/* Strict Dark Mode contrast for KaTeX formulas and text */
+html.dark .katex,
+html.dark .katex-display,
+html.dark .katex-html,
+html.dark .katex .base,
+html.dark .katex .mord,
+html.dark .katex .mbin,
+html.dark .katex .mrel,
+html.dark .katex .mopen,
+html.dark .katex .mclose,
+html.dark .katex .mpunct,
+html.dark .katex .minner,
+html.dark .katex .mop {
+  color: #f8fafc !important;
+}
+
+.katex-display {
+  margin: 0.85em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.4em 0.6em;
+  border-radius: 0.5rem;
+  background: rgba(15, 23, 42, 0.5);
+  border: 1px solid rgba(51, 65, 85, 0.4);
+}
+
+html:not(.dark) .katex-display {
+  background: rgba(241, 245, 249, 0.9);
+  border: 1px solid rgba(203, 213, 225, 0.8);
+}

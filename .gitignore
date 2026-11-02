@@ -1,0 +1,21 @@
+﻿# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 题库原始 PDF（体积大，走 Release 发布）
+题库/
+*.pdf
+
+# Python 缓存（数据构建脚本）
+__pycache__/
+*.py[cod]
+.venv/
+
+# 本地工具配置
+.agents/
+
+# 系统
+.DS_Store
+Thumbs.db
